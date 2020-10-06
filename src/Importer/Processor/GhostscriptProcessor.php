@@ -1,6 +1,6 @@
 <?php
 
-namespace CaillaudPA\Elastic\Importer\Processor;
+namespace Eze\Elastic\Importer\Processor;
 
 /**
  * Class PdfReduceSizeProcessor
@@ -13,7 +13,7 @@ namespace CaillaudPA\Elastic\Importer\Processor;
  *  - imagemagick intalled in server
  *  - And php need to can run shell_exec function
  *
- * @package CaillaudPA\Elastic\Importer\Processor
+ * @package Eze\Elastic\Importer\Processor
  */
 class GhostscriptProcessor implements ProcessorInterface
 {

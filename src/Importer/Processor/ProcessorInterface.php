@@ -1,6 +1,6 @@
 <?php
 
-namespace CaillaudPA\Elastic\Importer\Processor;
+namespace Eze\Elastic\Importer\Processor;
 
 
 interface ProcessorInterface

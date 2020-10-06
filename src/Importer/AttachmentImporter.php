@@ -1,17 +1,17 @@
 <?php
 
-namespace CaillaudPA\Elastic\Importer;
+namespace Eze\Elastic\Importer;
 
-use CaillaudPA\Elastic\Importer\Processor\ProcessorInterface;
-use CaillaudPA\Elastic\Importer\Reader\ReaderResolver;
-use CaillaudPA\Elastic\Model\Document;
-use CaillaudPA\Elastic\Pipeline\Attachment;
+use Eze\Elastic\Importer\Processor\ProcessorInterface;
+use Eze\Elastic\Importer\Reader\ReaderResolver;
+use Eze\Elastic\Model\Document;
+use Eze\Elastic\Pipeline\Attachment;
 use Elasticsearch\Client;
 
 /**
  * Class BinaryImporter
  *
- * @package CaillaudPA\Elastic\Importer
+ * @package Eze\Elastic\Importer
  */
 class AttachmentImporter implements ImporterInterface
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace CaillaudPA\Elastic\Importer;
+namespace Eze\Elastic\Importer;
 
-use CaillaudPA\Elastic\Model\Document;
+use Eze\Elastic\Model\Document;
 
 interface ImporterInterface
 {

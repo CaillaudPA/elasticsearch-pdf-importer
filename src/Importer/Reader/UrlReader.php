@@ -1,6 +1,6 @@
 <?php
 
-namespace CaillaudPA\Elastic\Importer\Reader;
+namespace Eze\Elastic\Importer\Reader;
 
 
 class UrlReader implements ReaderInterface

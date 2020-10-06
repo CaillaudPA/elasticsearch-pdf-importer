@@ -1,11 +1,11 @@
 <?php
 
-namespace CaillaudPA\Elastic\Model;
+namespace Eze\Elastic\Model;
 
 /**
  * Class Result
  *
- * @package CaillaudPA\Elastic\Model
+ * @package Eze\Elastic\Model
  */
 class Result
 {

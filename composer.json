@@ -1,5 +1,5 @@
 {
-  "name": "eze/elasticsearch-pdf-importer",
+  "name": "caillaudpa/elasticsearch-pdf-importer",
   "description": "PDF importer for elasticsearch",
   "type": "library",
   "license": "MIT",
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "CaillaudPA\\Elastic\\": "src"
+      "Eze\\Elastic\\": "src"
     }
   },
   "keywords": [
