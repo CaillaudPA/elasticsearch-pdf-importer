@@ -1,6 +1,6 @@
 <?php
 
-namespace Eze\Elastic\Importer\Reader;
+namespace CaillaudPA\Elastic\Importer\Reader;
 
 class ReaderResolver
 {

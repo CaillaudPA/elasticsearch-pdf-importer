@@ -1,11 +1,11 @@
 <?php
 
-namespace Eze\Elastic\Importer\Reader;
+namespace CaillaudPA\Elastic\Importer\Reader;
 
 /**
  * Class FileReader
  *
- * @package Eze\Elastic\Importer\Reader
+ * @package CaillaudPA\Elastic\Importer\Reader
  */
 class FileReader implements ReaderInterface
 {

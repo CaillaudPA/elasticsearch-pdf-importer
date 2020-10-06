@@ -1,7 +1,7 @@
 <?php
 
-use Eze\Elastic\Factory;
-use Eze\Elastic\Pipeline\Attachment;
+use CaillaudPA\Elastic\Factory;
+use CaillaudPA\Elastic\Pipeline\Attachment;
 
 require __DIR__ . '/../vendor/autoload.php';
 

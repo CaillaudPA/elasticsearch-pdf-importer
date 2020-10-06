@@ -1,6 +1,6 @@
 <?php
 
-namespace Eze\Elastic\Pipeline;
+namespace CaillaudPA\Elastic\Pipeline;
 
 
 interface PipelineInterface

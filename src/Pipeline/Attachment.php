@@ -1,13 +1,13 @@
 <?php
 
-namespace Eze\Elastic\Pipeline;
+namespace CaillaudPA\Elastic\Pipeline;
 
 use Elasticsearch\Client;
 
 /**
  * Class Attachment
  *
- * @package Eze\Elastic\Pipeline
+ * @package CaillaudPA\Elastic\Pipeline
  */
 class Attachment implements PipelineInterface
 {

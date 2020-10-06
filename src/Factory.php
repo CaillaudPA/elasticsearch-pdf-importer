@@ -1,13 +1,13 @@
 <?php
 
-namespace Eze\Elastic;
+namespace CaillaudPA\Elastic;
 
 use Elasticsearch\ClientBuilder;
 
 /**
  * Class Factory
  *
- * @package Eze\Elastic
+ * @package CaillaudPA\Elastic
  */
 class Factory
 {
