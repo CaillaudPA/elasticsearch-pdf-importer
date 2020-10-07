@@ -20,7 +20,7 @@ class Document
     /**
      * @var array
      */
-    private $fields;
+    private $fields = [];
 
     /**
      * Document constructor.
